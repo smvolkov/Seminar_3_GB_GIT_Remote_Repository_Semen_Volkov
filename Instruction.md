@@ -44,4 +44,4 @@
 * git branch <branch name> - создать новую ветку
 * git checkout <branch name> - переход к другой ветке
 * git branch -d <branch name> - удалить ветку
-* git merge
+* git merge <branch name> - слить указанную ветку
