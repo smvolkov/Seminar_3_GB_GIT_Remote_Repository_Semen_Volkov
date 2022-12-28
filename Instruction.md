@@ -45,3 +45,10 @@
 * git checkout <branch name> - переход к другой ветке
 * git branch -d <branch name> - удалить ветку
 * git merge <branch name> - слить указанную ветку
+
+---
+## *Скриншот конфликта*
+
+Разрешенный конфликт:
+
+![Oops!](Conflict.png)
