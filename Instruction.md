@@ -43,4 +43,4 @@
 * git branch - посмотреть список веток в репозитории
 * git branch <branch name> - создать новую ветку
 * git checkout <branch name> - переход к другой ветке
-* git branch -d <branch name> - удалить ветку
+* git branch -d <branch name> - удалить ветку с проверкой
